@@ -25,7 +25,7 @@ To have a local copy of the code, follow the following steps:
 To setup the project locally: clone the repository using:
 
 ```
-git@github.com:aleksandrelashauri/scandiweb.git
+git@github.com:aleksandrelashauri/inquire.git
 ```
 
 ### Install dependencies
